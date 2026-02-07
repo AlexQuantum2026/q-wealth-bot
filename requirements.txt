@@ -1,0 +1,8 @@
+numpy==1.26.0
+pandas==2.1.1
+tensorflow-quantum==0.7.2  # Ez a lényeg, kvantum!
+keras==3.0.0
+requests==2.31.0
+colorama==0.4.6
+fake-useragent==1.3.0
+crypto-stealer-detection==0.0.1  # Vicces kamu library
